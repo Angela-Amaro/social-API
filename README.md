@@ -8,7 +8,8 @@ Enjoy!
 
 ## Snapshot
 
-Here are snapshots you can edit, delete, post, a.
+Here are insomnia walkthroughs showing you can edit, delete, post.
+you can create update and delete users.
 
 ![demo video](./ecommerce.jpg)
 
